@@ -1,5 +1,5 @@
-CNC content,E' at 35 °C (GPa),E' at 35 °C uncertainty (GPa),Tg from tanδ (°C),Tg from tanδ uncertainty (°C)
-0 wt % CNC, 1.9, 0.3, 79.3, 0.8
-1 wt % CNC, 2.7, 0.0, 79.5, 0.3
-2 wt % CNC, 2.7, 0.1, 78.8, 0.0
-3 wt % CNC, 2.9, 0.1, 82.2, 0.3
+Samples,E' at 35 °C (GPa),E' at 35 °C uncertainty (GPa),Tg from tanδ (°C),Tg from tanδ uncertainty (°C)
+PLA/0 wt % CNC, 1.9, 0.3, 79.3, 0.8
+PLA/1 wt % CNC, 2.7, 0.0, 79.5, 0.3
+PLA/2 wt % CNC, 2.7, 0.1, 78.8, 0.0
+PLA/3 wt % CNC, 2.9, 0.1, 82.2, 0.3
