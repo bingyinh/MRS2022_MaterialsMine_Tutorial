@@ -1,4 +1,4 @@
-Samples,PLA (wt%),CNW (wt%),Surfactant (wt%),glass_transition_temperature (deg_C)
-PLA, 100,0,0,58
-PLA/CNW, 95,5,0,60
-PLA/B-CNW, 95,5,0,76
+Samples,PLA (wt%),CNW (wt%),glass_transition_temperature (deg_C)
+PLA, 100,0,58
+PLA/CNW, 95,5,60
+PLA/B-CNW, 95,5,76
